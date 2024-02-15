@@ -1,0 +1,13 @@
+.env file not able to upload because of security issues
+.env file structure - 
+MONGODB_URL = "MONGODB_URL"
+PORT = 4000
+CLOUD_NAME = "YOUR Cloud name"
+API_KEY = "Your API KEY"
+API_SECRET = "Your API Secrey"
+
+MAIL_HOST = "YOUR Mail host"
+MAIL_USER = "Mail Username"
+MAIL_PASS = "Mail Password"
+
+MAIL_PASS can be found in two factor verification in app password 
